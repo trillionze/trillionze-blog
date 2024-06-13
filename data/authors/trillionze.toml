@@ -1,0 +1,13 @@
+url = "https://www.trillionze.com"
+
+[name]
+display = "trillionze"
+
+[image]
+url = "images/ze.jpeg"
+
+[zh]
+description = "自我介绍。"
+
+[en]
+description = "Self introduction."

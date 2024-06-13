@@ -28,7 +28,7 @@ PygmentsUseClasses = true    # required for shhighlight shortcode
 disqusShortname = ""         # disqus_shortname
 googleAnalytics = ""         # UA-XXXXXXXX-X
 
-# language support # en / zh-tw / other... translations present in i18n/
+# language support # en / zh / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use
 defaultContentLanguageInSubdir = true
 
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = true
   pages = "/:slug/"
 
 [author]                     # required
-  name = "Zhaoze"
+  name = "ZZ"
 
 [sitemap]                    # required
   changefreq = "weekly"
@@ -52,15 +52,15 @@ defaultContentLanguageInSubdir = true
 # ------------------------------------- #
 
 [params]
-  since = "2017"             # Site creation time
+  since = "2020"             # Site creation time
   rssFullContent = true      # set true to use full content instead of summary
 
   # site info (optional)
   keywords = ["Hugo", "theme","den"]
-  description = "Hello"
+  description = "Programming | Software Engineer"
   logoTitle = "TRILLIONZE" # shown on top-left, default: title
   siteLogoImage = "images/globe.svg"     # shown besides logoTitle
-  # headerTitle = "Den"                   # default: title
+  # headerTitle = "Trillionze"                   # default: title
   headerImage = "images/background.jpg"
   showAuthorCard = true # Whether to show author information below the article
 
@@ -150,7 +150,7 @@ defaultContentLanguageInSubdir = true
   weight = 2
 
   [languages.zh.params]
-    description = "你好123"
+    description = "Programming | Software Engineer"
 
   [[languages.zh.menu.main]]
     name = "笔记"
