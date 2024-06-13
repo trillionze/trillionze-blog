@@ -6,7 +6,7 @@
     <description>Recent content on trillionze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jun 2024 23:32:11 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 13:49:42 -0500</lastBuildDate>
     
     <atom:link href="https://www.trillionze.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,16 @@ It makes use of a variety of open source projects including:
 </ul>
 <p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
 ]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Test3</title>
+      <link>https://www.trillionze.com/en/2024/06/13/test3/</link>
+      <pubDate>Thu, 13 Jun 2024 13:49:42 -0500</pubDate>
+      
+      <guid>https://www.trillionze.com/en/2024/06/13/test3/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -276,6 +286,16 @@ text code blocks
       <description>This is a simple note.</description>
       <content:encoded><![CDATA[<p>This is a simple note.</p>
 ]]></content:encoded>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.trillionze.com/en/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.trillionze.com/en/1/01/01/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
   </channel>
