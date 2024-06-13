@@ -150,7 +150,7 @@ defaultContentLanguageInSubdir = true
   weight = 2
 
   [languages.zh.params]
-    description = "你好"
+    description = "你好123"
 
   [[languages.zh.menu.main]]
     name = "笔记"
