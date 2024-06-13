@@ -30,7 +30,7 @@ jobs:
               with:
                   personal_token: ${{ secrets.PERSONAL_TOKEN }}
                   external_repository: trillionze/trillionze
-                  publish_branch: trillionze
+                  publish_branch: main
                   publish_dir: ./public
                   commit_message: ${{ github.event.head_commit.message }}
 
