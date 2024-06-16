@@ -4,7 +4,7 @@ on:
     push:
     workflow_dispatch:
     schedule:
-        - cron: "0 0 * * *"  
+        - cron: "30 4 * * *"  
 
 jobs:
     build:
@@ -17,6 +17,15 @@ jobs:
                   submodules: true
                   fetch-depth: 0
 
+            - name: Commit and push if changed
+              run: |-
+                  git diff
+                  git config --global user.email "action@github.com"
+                  git config --global user.name "GitHub Action"
+                  git add -A
+                  git commit -m "ci: update about page (automatically)" || exit 0
+                  git push
+                  
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
