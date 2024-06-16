@@ -4,7 +4,8 @@ on:
     push:
     workflow_dispatch:
     schedule:
-        - cron: "40 4 * * *"  
+        - cron: "55 4 * * *"  
+
 
 jobs:
     build:
@@ -16,10 +17,10 @@ jobs:
               with:
                   submodules: true
                   fetch-depth: 0
-                  
-            - name: Add a line to README
+
+            - name: Update README
               run: |
-                  echo "This is a new line added on $(date)" | sed -e '$a\' >> README.md
+                  python3 build.py
 
             - name: Commit and push if changed
               env:
