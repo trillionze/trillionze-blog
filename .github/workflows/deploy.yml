@@ -4,7 +4,7 @@ on:
     push:
     workflow_dispatch:
     schedule:
-        - cron: "25 5 * * *"  
+        - cron: "30 5 * * *"  
 
 
 jobs:
@@ -27,8 +27,10 @@ jobs:
                   personal_token: ${{ secrets.PERSONAL_TOKEN }}
               run: |-
                   git diff
-                  git config --global user.email "action@github.com"
-                  git config --global user.name "GitHub Action"
+                  # git config --global user.email "action@github.com"
+                  # git config --global user.name "GitHub Action"
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
                   git add -A
                   git commit -m "ci: update about page (automatically)" || exit 0
                   git push
