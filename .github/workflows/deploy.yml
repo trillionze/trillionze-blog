@@ -43,7 +43,7 @@ jobs:
               uses: peaceiris/actions-gh-pages@v3
               with:
                   personal_token: ${{ secrets.PERSONAL_TOKEN }}
-                  external_repository: trillionze/trillionze
+                  external_repository: trillionze/trillionze-blog
                   publish_branch: trillionze
                   publish_dir: ./public
                   commit_message: ${{ github.event.head_commit.message }}
