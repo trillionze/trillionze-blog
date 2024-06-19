@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于"
 date: 2017-08-20T21:38:52+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
@@ -15,17 +15,7 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 
 ![picture](https://image.pseudoyu.com/images/dino.gif)
 
-#### 📰 Recent Posts
-
-<!-- blog starts -->
-* <a href=https://www.trillionze.com/en/about/ target='_blank'>About</a>
-* <a href=https://www.trillionze.com/en/2024/06/13/test3/ target='_blank'>Test3</a>
-* <a href=https://www.trillionze.com/en/2024/06/12/test1/ target='_blank'>Test1</a>
-* <a href=https://www.trillionze.com/en/2024/06/12/test/ target='_blank'>Test</a>
-* <a href=https://www.trillionze.com/en/2018/03/06/den-theme-preview/ target='_blank'>Den Theme Preview</a>
-<!-- blog ends -->
-
-#### 🎧 Recent Digests
+### 🎧 Recent Digests
 
 <!-- douban starts -->
 * <a href='https://book.douban.com/subject/4908879/' target='_blank'>想读动物农场</a> - 2024-06-18
@@ -35,7 +25,7 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 * <a href='http://movie.douban.com/subject/21941283/' target='_blank'>看过天注定</a> - 2024-06-17
 <!-- douban ends -->
 
-#### 👨🏻‍💻 This Week I Code With
+### 👨🏻‍💻 This Week I Code With
 
 <!-- code_time starts -->
 

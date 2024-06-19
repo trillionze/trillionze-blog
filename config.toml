@@ -82,6 +82,9 @@ defaultContentLanguageInSubdir = true
   customCSS = []             # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
 
+  [markup.goldmark.renderer]
+  unsafe = true
+
 # ------------------------------------- #
 # ---- Related Articles --------------- #
 # ------------------------------------- #
@@ -120,10 +123,15 @@ defaultContentLanguageInSubdir = true
     identifier = "notes"
     url = "category/notes/"
   [[languages.en.menu.main]]
-    name = "Demos"
+    name = "Tools"
     weight = 20
-    identifier = "demos"
-    url = "category/demos/"
+    identifier = "tools"
+    url = "category/tools/"
+  [[languages.en.menu.main]]
+    name = "Develop"
+    weight = 30
+    identifier = "develop"
+    url = "category/develop/"
 
   [[languages.en.menu.social]]
     name = "GitHub"
@@ -158,10 +166,15 @@ defaultContentLanguageInSubdir = true
     identifier = "notes"
     url = "category/notes/"
   [[languages.zh.menu.main]]
-    name = "展示"
+    name = "工具"
     weight = 20
-    identifier = "demos"
-    url = "category/demos/"
+    identifier = "tools"
+    url = "category/tools/"
+  [[languages.zh.menu.main]]
+    name = "编程"
+    weight = 30
+    identifier = "develop"
+    url = "category/develop/"
 
   [[languages.zh.menu.social]]
     name = "GitHub"
