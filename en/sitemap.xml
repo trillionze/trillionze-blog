@@ -9,41 +9,6 @@
   </url>
   
   <url>
-    <loc>https://www.trillionze.com/en/posts/</loc>
-    <lastmod>2024-06-13T13:49:42-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.trillionze.com/en/2024/06/13/test3/</loc>
-    <lastmod>2024-06-13T13:49:42-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.trillionze.com/en/</loc>
-    <lastmod>2024-06-13T13:49:42-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.trillionze.com/en/2024/06/12/test1/</loc>
-    <lastmod>2024-06-12T23:32:11-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.trillionze.com/en/2024/06/12/test/</loc>
-    <lastmod>2024-06-12T23:22:38-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.trillionze.com/en/categories/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -65,6 +30,13 @@
   </url>
   
   <url>
+    <loc>https://www.trillionze.com/en/posts/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.trillionze.com/en/tag/preview/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,6 +52,13 @@
   
   <url>
     <loc>https://www.trillionze.com/en/tags/</loc>
+    <lastmod>2018-03-07T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trillionze.com/en/</loc>
     <lastmod>2018-03-07T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -137,12 +116,6 @@
   <url>
     <loc>https://www.trillionze.com/en/2018/03/03/note-1/</loc>
     <lastmod>2018-03-03T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.trillionze.com/en/1/01/01/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
