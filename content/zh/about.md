@@ -1,19 +1,50 @@
 ---
-title: "关于"
+title: "About"
 date: 2017-08-20T21:38:52+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
 weight: 50
 ---
 
-Hugo 是個靜態網頁產生器。
+## 👋 Hi I'm [trillionze](https://www.trillionze.com)
 
+I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on [GitHub](https://github.com/trillionze).
 
-它利用了一些開放原始碼的專案像是：
+- 💼 Love open-source
+- 💬 Ask me about anything, [email me](trillionze@163.com)
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+![picture](https://image.pseudoyu.com/images/dino.gif)
 
-了解並貢獻： [GitHub](https://github.com/gohugoio).
+#### 📰 Recent Posts
+
+<!-- blog starts -->
+* <a href=https://www.trillionze.com/en/about/ target='_blank'>About</a>
+* <a href=https://www.trillionze.com/en/2024/06/13/test3/ target='_blank'>Test3</a>
+* <a href=https://www.trillionze.com/en/2024/06/12/test1/ target='_blank'>Test1</a>
+* <a href=https://www.trillionze.com/en/2024/06/12/test/ target='_blank'>Test</a>
+* <a href=https://www.trillionze.com/en/2018/03/06/den-theme-preview/ target='_blank'>Den Theme Preview</a>
+<!-- blog ends -->
+
+#### 🎧 Recent Digests
+
+<!-- douban starts -->
+* <a href='https://book.douban.com/subject/4908879/' target='_blank'>想读动物农场</a> - 2024-06-18
+* <a href='https://book.douban.com/subject/33445309/' target='_blank'>想读阿特拉斯耸耸肩</a> - 2024-06-17
+* <a href='http://movie.douban.com/subject/26656728/' target='_blank'>想看泳者之心</a> - 2024-06-17
+* <a href='https://book.douban.com/subject/36687146/' target='_blank'>最近在读时间贫困</a> - 2024-06-17
+* <a href='http://movie.douban.com/subject/21941283/' target='_blank'>看过天注定</a> - 2024-06-17
+<!-- douban ends -->
+
+#### 👨🏻‍💻 This Week I Code With
+
+<!-- code_time starts -->
+
+```text
+Python     1 hr 27 mins   ████████▏░░░░░░░░░░░░  39.3%
+YAML       1 hr 5 mins    ██████▏░░░░░░░░░░░░░░  29.4%
+Markdown   1 hr 3 mins    ██████░░░░░░░░░░░░░░░  28.6%
+TOML       2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+HTML       2 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+```
+
+<!-- code_time ends -->

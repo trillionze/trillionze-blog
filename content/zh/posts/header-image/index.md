@@ -1,5 +1,5 @@
 ---
-title: "標頭圖片"
+title: "图片"
 date: 2018-03-05T16:01:23+08:00
 lastmod: 2018-03-05T16:01:23+08:00
 draft: false
@@ -12,4 +12,4 @@ resources:
   src: 'header.jpg'
 ---
 
-這是一個簡單的筆記。
+这是一个简单的笔记。

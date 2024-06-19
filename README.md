@@ -4,12 +4,12 @@
 </p>
 
 ### Hey there <img src='https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/hey.gif' alt='Hi' width="24"/>
-This is a new line added on 2024-06-16T05:34:32.568397
 
-This is a new line added on 2024-06-17T18:47:45.698277
 
-This is a new line added on 2024-06-17T19:02:55.975620
+![dino](https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/dino.gif)
 
-This is a new line added on 2024-06-18T01:13:38.973022
+I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on [GitHub](https://github.com/trillionze).
 
-This is a new line added on 2024-06-19T01:13:52.300163
+- 💼 Love open-source
+- 💬 Ask me about anything, [email me](trillionze@163.com)
+

@@ -17,10 +17,28 @@ jobs:
               with:
                   submodules: true
                   fetch-depth: 0
+            
+            - name: Set up Python
+              uses: actions/setup-python@v2
+              with:
+                python-version: 3.11
 
-            - name: Update README
+            - uses: actions/cache@v2
+              name: Configure pip caching
+              with:
+                  path: ~/.cache/pip
+                  key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+                  restore-keys: |
+                      ${{ runner.os }}-pip-
+
+            - name: Install Python dependencies
               run: |
-                  python3 build.py
+                  python -m pip install -r requirements.txt
+
+            - name: Update About page
+              run: |
+                  python3 build_about.py
+                  cat content/zh/about.md
 
             - name: Commit and push if changed
               run: |-
