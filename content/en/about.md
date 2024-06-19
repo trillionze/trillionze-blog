@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于"
 date: 2017-08-20T21:38:52+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
@@ -30,11 +30,11 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 <!-- code_time starts -->
 
 ```text
-Python     1 hr 27 mins   ████████▏░░░░░░░░░░░░  39.3%
-YAML       1 hr 5 mins    ██████▏░░░░░░░░░░░░░░  29.4%
-Markdown   1 hr 3 mins    ██████░░░░░░░░░░░░░░░  28.6%
-TOML       2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-HTML       2 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Java       2 hrs 36 mins  ███████▏░░░░░░░░░░░░░  34.3%
+Markdown   1 hr 44 mins   ████▊░░░░░░░░░░░░░░░░  22.9%
+Python     1 hr 40 mins   ████▌░░░░░░░░░░░░░░░░  21.9%
+YAML       1 hr 9 mins    ███▏░░░░░░░░░░░░░░░░░  15.2%
+TOML       9 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 ```
 
 <!-- code_time ends -->
