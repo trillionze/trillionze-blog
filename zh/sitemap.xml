@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://www.trillionze.com/zh/category/demos/</loc>
-    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.trillionze.com/zh/tag/images/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +31,13 @@
   
   <url>
     <loc>https://www.trillionze.com/zh/tags/</loc>
+    <lastmod>2018-03-05T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trillionze.com/zh/category/tools/</loc>
     <lastmod>2018-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -74,6 +74,13 @@
   <url>
     <loc>https://www.trillionze.com/zh/2018/03/04/%E7%AC%94%E8%AE%B0-2/</loc>
     <lastmod>2018-03-04T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.trillionze.com/zh/category/develop/</loc>
+    <lastmod>2018-03-03T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

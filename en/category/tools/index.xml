@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demos on trillionze</title>
-    <link>https://www.trillionze.com/en/category/demos/</link>
-    <description>Recent content in Demos on trillionze</description>
+    <title>Tools on trillionze</title>
+    <link>https://www.trillionze.com/en/category/tools/</link>
+    <description>Recent content in Tools on trillionze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Mar 2018 16:01:23 +0800</lastBuildDate><atom:link href="https://www.trillionze.com/en/category/demos/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Header Image</title>
-      <link>https://www.trillionze.com/en/2018/03/05/header-image/</link>
-      <pubDate>Mon, 05 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.trillionze.com/en/2018/03/05/header-image/</guid>
-      <description>This is a simple note.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 04 Mar 2018 16:01:23 +0800</lastBuildDate><atom:link href="https://www.trillionze.com/en/category/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcodes Preview</title>
       <link>https://www.trillionze.com/en/2018/03/04/shortcodes-preview/</link>
