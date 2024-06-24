@@ -17,7 +17,7 @@
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
       <guid>https://www.trillionze.com/en/about/</guid>
-      <description>👋 Hi I&amp;rsquo;m trillionze I&amp;rsquo;m trillionze, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on GitHub. 💼 Love open-source 💬 Ask me about anything, email me 🎧 Recent Digests 想读动物农场 - 2024-06-18 想读阿特拉斯耸耸肩 - 2024-06-17 想看泳者之心 - 2024-06-17 最</description>
+      <description>👋 Hi I&amp;rsquo;m trillionze I&amp;rsquo;m trillionze, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on GitHub. 💼 Love open-source 💬 Ask me about anything, email me 🎧 Recent Digests 在看无罪的罪人 - 2024-06-24 想读被讨厌的勇气 - 2024-06-24 想看云边有个小卖部</description>
       <content:encoded><![CDATA[<h2 id="-hi-im-trillionzehttpswwwtrillionzecom">👋 Hi I&rsquo;m <a href="https://www.trillionze.com">trillionze</a></h2>
 <p>I&rsquo;m <a href="https://www.trillionze.com">trillionze</a>, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on <a href="https://github.com/trillionze">GitHub</a>.</p>
 <ul>
@@ -28,20 +28,20 @@
 <h3 id="-recent-digests">🎧 Recent Digests</h3>
 <!-- douban starts -->
 <ul>
-<li><a href='https://book.douban.com/subject/4908879/' target='_blank'>想读动物农场</a> - 2024-06-18</li>
-<li><a href='https://book.douban.com/subject/33445309/' target='_blank'>想读阿特拉斯耸耸肩</a> - 2024-06-17</li>
-<li><a href='http://movie.douban.com/subject/26656728/' target='_blank'>想看泳者之心</a> - 2024-06-17</li>
-<li><a href='https://book.douban.com/subject/36687146/' target='_blank'>最近在读时间贫困</a> - 2024-06-17</li>
-<li><a href='http://movie.douban.com/subject/21941283/' target='_blank'>看过天注定</a> - 2024-06-17</li>
+<li><a href='http://movie.douban.com/subject/36181105/' target='_blank'>在看无罪的罪人</a> - 2024-06-24</li>
+<li><a href='https://book.douban.com/subject/26369699/' target='_blank'>想读被讨厌的勇气</a> - 2024-06-24</li>
+<li><a href='http://movie.douban.com/subject/36089988/' target='_blank'>想看云边有个小卖部</a> - 2024-06-24</li>
+<li><a href='http://movie.douban.com/subject/24284175/' target='_blank'>看过九龙城寨之围城</a> - 2024-06-24</li>
+<li><a href='http://movie.douban.com/subject/35929861/' target='_blank'>想看甜蜜家园3</a> - 2024-06-24</li>
 </ul>
 <!-- douban ends -->
 <h3 id="-this-week-i-code-with">👨🏻‍💻 This Week I Code With</h3>
 <!-- code_time starts -->
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">Java       6 hrs 19 mins  ████████▊░░░░░░░░░░░░  42.1%
-</span></span><span class="line"><span class="cl">Go         3 hrs 8 mins   ████▍░░░░░░░░░░░░░░░░  20.8%
-</span></span><span class="line"><span class="cl">Markdown   1 hr 56 mins   ██▋░░░░░░░░░░░░░░░░░░  12.9%
-</span></span><span class="line"><span class="cl">Python     1 hr 43 mins   ██▍░░░░░░░░░░░░░░░░░░  11.4%
-</span></span><span class="line"><span class="cl">YAML       1 hr 5 mins    █▌░░░░░░░░░░░░░░░░░░░   7.2%
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">Java       6 hrs 55 mins  █████████▊░░░░░░░░░░░  46.6%
+</span></span><span class="line"><span class="cl">Go         3 hrs 9 mins   ████▍░░░░░░░░░░░░░░░░  21.3%
+</span></span><span class="line"><span class="cl">Markdown   1 hr 54 mins   ██▋░░░░░░░░░░░░░░░░░░  12.9%
+</span></span><span class="line"><span class="cl">Python     1 hr 41 mins   ██▍░░░░░░░░░░░░░░░░░░  11.4%
+</span></span><span class="line"><span class="cl">TOML       35 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 </span></span></code></pre></div><!-- code_time ends -->]]></content:encoded>
     </item>
     
