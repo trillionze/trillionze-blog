@@ -30,8 +30,8 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 <!-- code_time starts -->
 
 ```text
-Java       9 hrs 45 mins  ██████████████████▍░░  88.0%
-Go         1 hr 20 mins   ██▌░░░░░░░░░░░░░░░░░░  12.1%
+Java       8 hrs 23 mins  ████████████████████▌  97.8%
+Go         11 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 
 <!-- code_time ends -->
