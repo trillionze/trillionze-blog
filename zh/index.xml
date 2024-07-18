@@ -37,11 +37,11 @@
 <!-- douban ends -->
 <h3 id="-this-week-i-code-with">👨🏻‍💻 This Week I Code With</h3>
 <!-- code_time starts -->
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">Java       3 hrs 53 mins  ████████████▊░░░░░░░░  61.2%
-</span></span><span class="line"><span class="cl">YAML       1 hr 14 mins   ████░░░░░░░░░░░░░░░░░  19.4%
-</span></span><span class="line"><span class="cl">TOML       29 mins        █▌░░░░░░░░░░░░░░░░░░░   7.7%
-</span></span><span class="line"><span class="cl">C          27 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
-</span></span><span class="line"><span class="cl">C++        15 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">Java       2 hrs 20 mins  █████████▉░░░░░░░░░░░  47.2%
+</span></span><span class="line"><span class="cl">YAML       1 hr 14 mins   █████▏░░░░░░░░░░░░░░░  24.9%
+</span></span><span class="line"><span class="cl">TOML       29 mins        ██░░░░░░░░░░░░░░░░░░░   9.9%
+</span></span><span class="line"><span class="cl">C          27 mins        █▉░░░░░░░░░░░░░░░░░░░   9.2%
+</span></span><span class="line"><span class="cl">C++        15 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
 </span></span></code></pre></div><!-- code_time ends -->]]></content:encoded>
     </item>
     
