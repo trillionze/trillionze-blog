@@ -150,9 +150,52 @@
     
     
   
-  
+  <div align="center">
+  <div class="comment-underline"></div>
+</div>
 
+<br>
 
+<div class="comments">
+<div class="title">
+  <span>Comments</span>
+  <span class="counter"><span class="remark42__counter" data-url="https://www.trillionze.com/en/2018/03/03/note-1/"></span></span>
+</div>
+<div id="remark42">
+</div>
+</div>
+
+<script>
+var remark_config = {
+  host: 'https://comments.trillionze.com',
+  site_id: 'trillionze.com',
+  components: ['embed', 'counter'],
+  max_shown_comments: 20,
+  simple_view: true,
+  theme: 'light',
+}
+</script>
+
+<script>
+  (function () {
+    
+    const remark42 = window.REMARK42
+    if (remark42) {
+      remark42.destroy()
+      remark42.createInstance(remark_config)
+    } else {
+      for (const component of remark_config.components) {
+        var d = document, s = d.createElement('script');
+        s.src = `${remark_config.host}/web/${component}.mjs`;
+        s.type = 'module';
+        s.defer = true;
+        
+        s.setAttribute('data-no-instant', '')
+        d.head.appendChild(s);
+      }
+    }
+  })();
+</script>
 </div>
 
   </main><div class="footer gradient-2">
