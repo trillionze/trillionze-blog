@@ -17,7 +17,7 @@
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
       <guid>https://www.trillionze.com/zh/about/</guid>
-      <description>👋 Hi I&amp;rsquo;m trillionze I&amp;rsquo;m trillionze, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on GitHub. 💼 Love open-source 💬 Ask me about anything, email me 🎧 Recent Digests 看过余生一年的我，遇见了的余生半年的你的故事 - 2024-07-24 读过被讨</description>
+      <description>👋 Hi I&amp;rsquo;m trillionze I&amp;rsquo;m trillionze, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on GitHub. 💼 Love open-source 💬 Ask me about anything, email me 🎧 Recent Digests 看过无罪的罪人 第一季 - 2024-07-25 看过朝云暮雨 - 2024-07-24 看过余生一年的我</description>
       <content:encoded><![CDATA[<h2 id="-hi-im-trillionzehttpswwwtrillionzecom">👋 Hi I&rsquo;m <a href="https://www.trillionze.com">trillionze</a></h2>
 <p>I&rsquo;m <a href="https://www.trillionze.com">trillionze</a>, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on <a href="https://github.com/trillionze">GitHub</a>.</p>
 <ul>
@@ -28,20 +28,20 @@
 <h3 id="-recent-digests">🎧 Recent Digests</h3>
 <!-- douban starts -->
 <ul>
+<li><a href='http://movie.douban.com/subject/36181105/' target='_blank'>看过无罪的罪人 第一季</a> - 2024-07-25</li>
+<li><a href='http://movie.douban.com/subject/35359715/' target='_blank'>看过朝云暮雨</a> - 2024-07-24</li>
 <li><a href='http://movie.douban.com/subject/36748074/' target='_blank'>看过余生一年的我，遇见了的余生半年的你的故事</a> - 2024-07-24</li>
 <li><a href='https://book.douban.com/subject/26369699/' target='_blank'>读过被讨厌的勇气</a> - 2024-07-23</li>
 <li><a href='https://book.douban.com/subject/25862578/' target='_blank'>读过解忧杂货店</a> - 2024-07-23</li>
-<li><a href='https://book.douban.com/subject/26877752/' target='_blank'>读过恶意</a> - 2024-07-23</li>
-<li><a href='https://book.douban.com/subject/35517022/' target='_blank'>想读鹿川有许多粪</a> - 2024-07-23</li>
 </ul>
 <!-- douban ends -->
 <h3 id="-this-week-i-code-with">👨🏻‍💻 This Week I Code With</h3>
 <!-- code_time starts -->
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">TOML       24 mins        ████████▉░░░░░░░░░░░░  42.8%
-</span></span><span class="line"><span class="cl">Bash       15 mins        █████▋░░░░░░░░░░░░░░░  27.3%
-</span></span><span class="line"><span class="cl">Markdown   11 mins        ████▎░░░░░░░░░░░░░░░░  20.4%
-</span></span><span class="line"><span class="cl">YAML       2 mins         █░░░░░░░░░░░░░░░░░░░░   5.2%
-</span></span><span class="line"><span class="cl">HTML       2 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">TOML       24 mins        ██████████▋░░░░░░░░░░  51.1%
+</span></span><span class="line"><span class="cl">Bash       15 mins        ██████▊░░░░░░░░░░░░░░  32.6%
+</span></span><span class="line"><span class="cl">YAML       2 mins         █▎░░░░░░░░░░░░░░░░░░░   6.2%
+</span></span><span class="line"><span class="cl">HTML       2 mins         █░░░░░░░░░░░░░░░░░░░░   5.1%
+</span></span><span class="line"><span class="cl">Markdown   2 mins         █░░░░░░░░░░░░░░░░░░░░   5.0%
 </span></span></code></pre></div><!-- code_time ends -->]]></content:encoded>
     </item>
     
