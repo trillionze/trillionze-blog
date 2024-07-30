@@ -18,11 +18,11 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 ### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/3001114/' target='_blank'>看过沙丘</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/35575567/' target='_blank'>看过沙丘2</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/26957900/' target='_blank'>看过死侍与金刚狼</a> - 2024-07-29
+* <a href='http://movie.douban.com/subject/10594965/' target='_blank'>看过实习生</a> - 2024-07-29
 * <a href='https://book.douban.com/subject/35594496/' target='_blank'>最近在读福格行为模型</a> - 2024-07-28
-* <a href='https://book.douban.com/subject/26980487/' target='_blank'>最近在读悉达多</a> - 2024-07-28
-* <a href='http://movie.douban.com/subject/36181105/' target='_blank'>看过无罪的罪人 第一季</a> - 2024-07-25
-* <a href='http://movie.douban.com/subject/35359715/' target='_blank'>看过朝云暮雨</a> - 2024-07-24
-* <a href='http://movie.douban.com/subject/36748074/' target='_blank'>看过余生一年的我，遇见了的余生半年的你的故事</a> - 2024-07-24
 <!-- douban ends -->
 
 ### 👨🏻‍💻 This Week I Code With
@@ -30,11 +30,11 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 <!-- code_time starts -->
 
 ```text
-TOML       51 mins        ███████▎░░░░░░░░░░░░░  34.6%
-HTML       48 mins        ██████▊░░░░░░░░░░░░░░  32.4%
-Bash       21 mins        ███░░░░░░░░░░░░░░░░░░  14.7%
-Markdown   18 mins        ██▋░░░░░░░░░░░░░░░░░░  12.7%
-YAML       4 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Bash       1 hr 41 mins   ███████▍░░░░░░░░░░░░░  35.3%
+TOML       1 hr 32 mins   ██████▊░░░░░░░░░░░░░░  32.4%
+HTML       1 hr           ████▍░░░░░░░░░░░░░░░░  21.2%
+Markdown   23 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
+YAML       4 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time ends -->
