@@ -18,11 +18,11 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 ### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/30489388/' target='_blank'>看过蛛丝马迹</a> - 2024-11-08
-* <a href='http://movie.douban.com/subject/36181965/' target='_blank'>想看闹事之徒</a> - 2024-11-08
-* <a href='http://movie.douban.com/subject/35898983/' target='_blank'>想看职业杀手</a> - 2024-11-08
-* <a href='http://movie.douban.com/subject/35629810/' target='_blank'>看过双狼</a> - 2024-11-08
-* <a href='http://movie.douban.com/subject/11601131/' target='_blank'>看过家园防线</a> - 2024-11-08
+* <a href='http://movie.douban.com/subject/30216729/' target='_blank'>看过王牌保镖2</a> - 2024-11-11
+* <a href='http://movie.douban.com/subject/30424374/' target='_blank'>看过爱，死亡和机器人 第一季</a> - 2024-11-11
+* <a href='http://movie.douban.com/subject/35436582/' target='_blank'>看过爱，死亡和机器人 第三季</a> - 2024-11-11
+* <a href='http://movie.douban.com/subject/34418203/' target='_blank'>看过爱，死亡和机器人 第二季</a> - 2024-11-11
+* <a href='http://movie.douban.com/subject/3114109/' target='_blank'>看过暴力街区13：终极</a> - 2024-11-11
 <!-- douban ends -->
 
 ### 👨🏻‍💻 This Week I Code With
