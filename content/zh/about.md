@@ -18,11 +18,7 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 ### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35135959/' target='_blank'>看过最危险游戏 第二季</a> - 2024-12-13
-* <a href='http://movie.douban.com/subject/34815016/' target='_blank'>看过最危险游戏 第一季</a> - 2024-12-13
-* <a href='http://movie.douban.com/subject/35656342/' target='_blank'>想看鱿鱼游戏 第二季</a> - 2024-12-13
-* <a href='http://movie.douban.com/subject/35007126/' target='_blank'>看过绑架游戏</a> - 2024-12-11
-* <a href='http://movie.douban.com/subject/35712804/' target='_blank'>想看首尔之春</a> - 2024-12-04
+
 <!-- douban ends -->
 
 ### 👨🏻‍💻 This Week I Code With
