@@ -18,11 +18,11 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 ### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/30422485/' target='_blank'>看过人质</a> - 2025-03-23
-* <a href='http://movie.douban.com/subject/20515015/' target='_blank'>看过枪之子</a> - 2025-03-22
-* <a href='http://movie.douban.com/subject/26061679/' target='_blank'>看过触不可及(美版)</a> - 2025-03-21
-* <a href='http://movie.douban.com/subject/26685451/' target='_blank'>看过流浪猫鲍勃</a> - 2025-03-21
-* <a href='http://movie.douban.com/subject/36053256/' target='_blank'>看过苦尽柑来遇见你</a> - 2025-03-14
+* <a href='https://movie.douban.com/subject/30422485/' target='_blank'>看过人质</a> - 2025-03-23
+* <a href='https://movie.douban.com/subject/20515015/' target='_blank'>看过枪之子</a> - 2025-03-22
+* <a href='https://movie.douban.com/subject/26061679/' target='_blank'>看过触不可及(美版)</a> - 2025-03-21
+* <a href='https://movie.douban.com/subject/26685451/' target='_blank'>看过流浪猫鲍勃</a> - 2025-03-21
+* <a href='https://movie.douban.com/subject/36053256/' target='_blank'>看过苦尽柑来遇见你</a> - 2025-03-14
 <!-- douban ends -->
 
 ### 👨🏻‍💻 This Week I Code With
