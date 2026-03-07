@@ -18,7 +18,11 @@ I'm [trillionze](https://www.trillionze.com), graduate student in ECE(Electrical
 ### 🎧 Recent Digests
 
 <!-- douban starts -->
-
+* <a href='https://movie.douban.com/subject/35930441/' target='_blank'>看过后来的我们</a> - 2026-03-03
+* <a href='https://movie.douban.com/subject/26683723/' target='_blank'>看过后来的我们</a> - 2026-03-03
+* <a href='https://movie.douban.com/subject/35208463/' target='_blank'>看过三大队</a> - 2026-02-28
+* <a href='https://movie.douban.com/subject/37311135/' target='_blank'>看过飞驰人生3</a> - 2026-02-28
+* <a href='https://movie.douban.com/subject/37107063/' target='_blank'>看过震耳欲聋</a> - 2026-02-14
 <!-- douban ends -->
 
 ### 👨🏻‍💻 This Week I Code With
