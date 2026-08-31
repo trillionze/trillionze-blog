@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>trillionze</title><link>https://www.trillionze.com/zh/</link><description>Recent content on trillionze</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 05 Mar 2018 16:01:23 +0800</lastBuildDate><atom:link href="https://www.trillionze.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://www.trillionze.com/zh/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://www.trillionze.com/zh/about/</guid><description>👋 Hi I&amp;rsquo;m trillionze I&amp;rsquo;m trillionze, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on GitHub. 💼 Love open-source 💬 Ask me about anything, email me 🎧 Recent Digests 👨🏻‍💻 This Week I Code With Bash 1 hr 19 mins ████████████░░</description><content:encoded><![CDATA[<h2 id="-hi-im-trillionzehttpswwwtrillionzecom">👋 Hi I&rsquo;m <a href="https://www.trillionze.com">trillionze</a></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>trillionze</title><link>https://www.trillionze.com/zh/</link><description>Recent content on trillionze</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 05 Mar 2018 16:01:23 +0800</lastBuildDate><atom:link href="https://www.trillionze.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://www.trillionze.com/zh/about/</link><pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate><guid>https://www.trillionze.com/zh/about/</guid><description>👋 Hi I&amp;rsquo;m trillionze I&amp;rsquo;m trillionze, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on GitHub. 💼 Love open-source 💬 Ask me about anything, email me 🎧 Recent Digests 看过蜘蛛侠：崭新之日 - 2026-08-12 看过惊蛰无声 - 2026-08-09 看过消失的人 - 2026-08-01</description><content:encoded><![CDATA[<h2 id="-hi-im-trillionzehttpswwwtrillionzecom">👋 Hi I&rsquo;m <a href="https://www.trillionze.com">trillionze</a></h2>
 <p>I&rsquo;m <a href="https://www.trillionze.com">trillionze</a>, graduate student in ECE(Electrical and Computer Engineering) @ University of Illinois Urbana-Champaign (UIUC). Love to learn and build things. Follow me on <a href="https://github.com/trillionze">GitHub</a>.</p>
 <ul>
 <li>💼 Love open-source</li>
@@ -7,6 +7,13 @@
 <p><img src="https://image.pseudoyu.com/images/dino.gif" alt="picture"></p>
 <h3 id="-recent-digests">🎧 Recent Digests</h3>
 <!-- douban starts -->
+<ul>
+<li><a href='https://movie.douban.com/subject/36246195/' target='_blank'>看过蜘蛛侠：崭新之日</a> - 2026-08-12</li>
+<li><a href='https://movie.douban.com/subject/37242440/' target='_blank'>看过惊蛰无声</a> - 2026-08-09</li>
+<li><a href='https://movie.douban.com/subject/36965301/' target='_blank'>看过消失的人</a> - 2026-08-01</li>
+<li><a href='https://movie.douban.com/subject/36860212/' target='_blank'>看过揭秘日</a> - 2026-07-29</li>
+<li><a href='https://movie.douban.com/subject/37181749/' target='_blank'>看过杀人者的购物中心2</a> - 2026-07-23</li>
+</ul>
 <!-- douban ends -->
 <h3 id="-this-week-i-code-with">👨🏻‍💻 This Week I Code With</h3>
 <!-- code_time starts -->
